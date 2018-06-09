@@ -1,6 +1,6 @@
 # RoomWordSample
 
-This App has been developed, following the instructions given in the Google Codelab [Android Room with a View](https://codelabs.developers.google.com/codelabs/android-room-with-a-view/#0). The original code by Google for this codelab can be referred [here](https://github.com/googlecodelabs/android-room-with-a-view), which also contains additional codes for Testing Room that was not part of the Codelab.
+This App has been developed by following the instructions given in the Google Codelab [Android Room with a View](https://codelabs.developers.google.com/codelabs/android-room-with-a-view/#0). The original code by Google for this codelab can be referred [here](https://github.com/googlecodelabs/android-room-with-a-view), which also contains additional codes for Testing Room that was not part of the Codelab.
 
 ## Sample Screenshots
 
